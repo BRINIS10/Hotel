@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "159870588175",
+    "firebase_url": "https://hotel-riadh-palms.firebaseio.com",
+    "project_id": "hotel-riadh-palms",
+    "storage_bucket": "hotel-riadh-palms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159870588175:android:b2aa2e994c1ca01f",
+        "android_client_info": {
+          "package_name": "com.Wave.HotelRiadhPalms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159870588175-jprt7dpmij857m24hngma0hflkv5o0hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzwCUUI1z_vzC7pVUL-MPrXTa5yuT6Lo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159870588175-jprt7dpmij857m24hngma0hflkv5o0hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
